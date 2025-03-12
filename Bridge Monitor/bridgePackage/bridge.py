@@ -1,4 +1,4 @@
-# bridgeMonitor.py
+# bridge.py
 # Bill Nicholson
 # nicholdw@ucmail.uc.edu
 
