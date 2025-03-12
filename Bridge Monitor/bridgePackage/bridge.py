@@ -6,6 +6,9 @@ import random
 
 
 class BridgeMonitor():
+    """
+    Simulate the system that monitors a vehicle bridge 
+    """
     def __init__(self):
         pass
     
